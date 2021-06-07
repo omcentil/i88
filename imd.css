@@ -1,4 +1,4 @@
-/* 210601 */
+/* 210601-210607 */
 @charset "UTF-8";
 .default-color{background-color:#222!important}
 .default-color-text{color:#222!important}
@@ -836,7 +836,7 @@ select {
 
 @font-face {
   font-family: 'icomoon';
-  src: url(../fonts/icomoon/icomoon.ttf) format("truetype"), url(../fonts/icomoon/icomoon.woff) format("woff"), url(../fonts/icomoon/icomoon.svg) format("svg");
+  src: url(./assets/fonts/icomoon/icomoon.ttf) format("truetype"), url(./assets/fonts/icomoon/icomoon.woff) format("woff"), url(./assets/fonts/icomoon/icomoon.svg) format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -1095,7 +1095,7 @@ select {
     background-size: 280%;
 }
 .menu-body .icon_referral {
-    background: url(../images/common/icon_nav.png) no-repeat;
+    background: url(//3.bp.blogspot.com/-xNJIkaUv6x0/YL3il6PW8cI/AAAAAAAABZ8/5NH5VDk9cpkyd3C8Z3DOdTCtlKDDhgUYwCNcBGAsYHQ/s0-rw/icon_nav.png) no-repeat;
     background-size: 132%;
     background-position: -4px -282px;
     filter: drop-shadow(0px 1px 1px #000);
@@ -1422,7 +1422,7 @@ header {
       width: 24px;
       height: 18px;
       display: block;
-      background: url(../images/common/icon-menu.svg) no-repeat center center;
+      background: url(./assets/images/common/icon-menu.svg) no-repeat center center;
       background-size: 100%; }
 
 .side-nav {
@@ -2065,7 +2065,7 @@ main {
       display: block;
       margin-bottom: 5px;
       height: 50px;
-      background: url(../images/common/icon_nav.png) no-repeat;
+      background: url(//3.bp.blogspot.com/-xNJIkaUv6x0/YL3il6PW8cI/AAAAAAAABZ8/5NH5VDk9cpkyd3C8Z3DOdTCtlKDDhgUYwCNcBGAsYHQ/s0-rw/icon_nav.png) no-repeat;
       background-size: 60px; /* 80%; */
       opacity: 0.6; }
     .navigation-ribbon .navigation-ribbon-item .icon-egame,
@@ -3025,14 +3025,14 @@ html:lang(ko-KR) .user-view .member-btn .btn {
   height: 38px;
   line-height: 38px;
   /* background: url(../images/common/sub-menu-sprite.svg) no-repeat; */
-  /* background: url(../images/common/icon_nav.png) no-repeat; */
+  /* background: url(//3.bp.blogspot.com/-xNJIkaUv6x0/YL3il6PW8cI/AAAAAAAABZ8/5NH5VDk9cpkyd3C8Z3DOdTCtlKDDhgUYwCNcBGAsYHQ/s0-rw/icon_nav.png) no-repeat; */
   background-size: 100%;
   opacity: 0.74; }
 .icon_games, .icon_sports, .icon_wallet {
     background: url(../images/common/sub-menu-sprite.svg) no-repeat;
 }
 .icon_casino, .icon_slot, .icon_tembak_ikan, .icon_lottery, .icon_poker {
-    background: url(../images/common/icon_nav.png) no-repeat;
+    background: url(//3.bp.blogspot.com/-xNJIkaUv6x0/YL3il6PW8cI/AAAAAAAABZ8/5NH5VDk9cpkyd3C8Z3DOdTCtlKDDhgUYwCNcBGAsYHQ/s0-rw/icon_nav.png) no-repeat;
 }
 
 .providerGroup .icon_sports {
@@ -5042,7 +5042,7 @@ button.close {
 	height: 20px;
 	margin-left: 15px;
 	margin-top: 3px;
-	background: url(../images/common/bank.png) no-repeat;
+	background: url(//3.bp.blogspot.com/-WXFhNkenZYU/YL3gmkhY8SI/AAAAAAAABZk/4ybGipjJStEVxcwrwXA470ET51OgQIaeQCNcBGAsYHQ/s0-rw/bank.png) no-repeat;
 	background-size: 200%;
 	background-position:right 0;
 }
@@ -5061,8 +5061,8 @@ button.close {
 .supported-bank .bank .panin{background-position:right -297px}
 .supported-bank .bank .sakuku{background-position:right -317px}
 .supported-bank .indicator{position:absolute;top:14px;left:4px;width:10px;height:10px;border-radius:2px}
-.supported-bank .indicator.on{background:url(../images/common/indic-on.png) no-repeat}
-.supported-bank .indicator.off{background:url(../images/common/indic-off.png) no-repeat}
+.supported-bank .indicator.on{background:url(//3.bp.blogspot.com/-hPafwbSD4Sc/YL3hLYnJbDI/AAAAAAAABZs/dOlFlgRgPRwfIYp7Sx9lsvzLXuMEoypUgCNcBGAsYHQ/s0-rw/indic-on.png) no-repeat}
+.supported-bank .indicator.off{background:url(//3.bp.blogspot.com/-eQCbgv0wPAA/YL3holWOJkI/AAAAAAAABZ0/_L4FAzaBXH0wvKdJJbfwB1JzGAVcC40-ACNcBGAsYHQ/s0-rw/indic-off.png) no-repeat}
 .supported-bank .indicator.on,.supported-bank .indicator.off{background-position:center center}
 
 /** Footer Content **/
@@ -5375,7 +5375,7 @@ button.close {
 	height:50px;
 	margin:0 auto;
 	display:block;
-	background:url(../images/common/icon_nav.png) no-repeat;
+	background:url(//3.bp.blogspot.com/-xNJIkaUv6x0/YL3il6PW8cI/AAAAAAAABZ8/5NH5VDk9cpkyd3C8Z3DOdTCtlKDDhgUYwCNcBGAsYHQ/s0-rw/icon_nav.png) no-repeat;
 	background-size:60%;
 	background-position:center -190px;
 }
@@ -6014,7 +6014,7 @@ button.close {
 .bank-history.history-wrapper{padding-bottom:0}
 .history-summary-info .amount{position:absolute;bottom:2px;font-size:1.1rem;line-height:normal;right:0}
 .history-summary-info.provider-history .amount{top:0}
-.history-summary-info [class^=bank-]{float:right;width:100px;height:26px;background:url(../images/common/bank.png) no-repeat;background-size:200%}
+.history-summary-info [class^=bank-]{float:right;width:100px;height:26px;background:url(//3.bp.blogspot.com/-WXFhNkenZYU/YL3gmkhY8SI/AAAAAAAABZk/4ybGipjJStEVxcwrwXA470ET51OgQIaeQCNcBGAsYHQ/s0-rw/bank.png) no-repeat;background-size:200%}
 .history-summary-info .bank-bca{background-position:13px 0}
 .history-summary-info .bank-bni{background-position:15px -92px}
 .history-summary-info .bank-bri{background-position:11px -194px}
