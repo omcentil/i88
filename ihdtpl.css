@@ -1,0 +1,34 @@
+.seo-footer{padding-bottom:60px}
+.wrapper{background:linear-gradient(180deg, #0b2740 0%, #171d23 80%)}
+.progressive-jackpot{filter:contrast(100%) hue-rotate(275deg) saturate(2.5)}
+.btn,.side-nav a.btn:not(.btn-secondary-primary){color:#000}
+.btn-join{background:#00aeef}
+.btn-secondary-primary{background:#ef271a !important;color:#fff}
+.navbar-fixed{background-color:#1a1a1a;text-align:center}
+.page-header-title{background-color:#000}
+.account-menu a.active{color:#000;background-color:#ffeb00}
+.navigation-ribbon .navigation-ribbon-item .active{color:#ffc93f}
+.browser-default input{color:#e8e8e8;background-color:#333}
+.bottom-nav-bar a.active{color:#00aeef}
+.btn-account ul a.icon-btn{color:#190304;background:#00aeef}
+.bonus-button.btn-await-approval{background-color:#483b00;color:#ffefeb}
+.bonus-button.active{background-color:#483b00;color:#ffefeb}
+.bonus-button.active:hover{background-color:#483b00;color:#ffefeb;cursor:pointer}
+.item-provider.selected{border-bottom:3px solid #f2e699;background-color:rgba(242, 230, 153, 0.6)}
+.history-button{background:radial-gradient(circle, transparent 1%, rgb(238 191 79) 1%) center center / 15000% rgb(238 191 79)}
+.supported-bank .bank{border-color:#597487;background-color:#0b2740}
+.custom-page{border-color:#00aeef}
+.promotions-category a.active{background:#00aeef;color:#000}
+
+/* Menu Game Front index page */
+.game-front-wrapper{background:linear-gradient(180deg, rgb(0 0 0 / 0.8) -20%, #00aeef 10%)}
+.game-group-front .nav-link,.game-group-front .owl-nav [class*='owl-']{color:#000 !important}
+.game-group-front .nav-link>i{background:url(//139.99.77.11/assets/images/icon-nav.png) no-repeat;background-size:60%;background-position:center -190px}
+.game-menu li a.active{background:linear-gradient(to bottom,#f00018 1%,#b20000 100%);filter:drop-shadow(0 0 6px #ffc93f);color:#ffc93f}
+
+/* Filter tools [favorites] */
+.filter-tools a:hover, .filter-tools a.selected {
+    background-color: rgb(238 191 79 / 0.3);
+    color: rgb(157 115 43);
+    border-color: rgb(238 191 79 / 0.8);
+}
