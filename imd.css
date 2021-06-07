@@ -747,7 +747,7 @@ select {
 .preLoadLogo {
   width: 150px;
   height: 46px;
-  background: url(./assets/images/common/logo.png) no-repeat center center;
+  background: url(//178.128.100.88/assets/images/common/logo.png) no-repeat center center;
   background-size: 100%;
   position: absolute;
   top: 18%;
@@ -836,7 +836,7 @@ select {
 
 @font-face {
   font-family: 'icomoon';
-  src: url(./assets/fonts/icomoon/icomoon.ttf) format("truetype"), url(./assets/fonts/icomoon/icomoon.woff) format("woff"), url(./assets/fonts/icomoon/icomoon.svg) format("svg");
+  src: url(//178.128.100.88/assets/fonts/icomoon/icomoon.ttf) format("truetype"), url(//178.128.100.88/assets/fonts/icomoon/icomoon.woff) format("woff"), url(//178.128.100.88/assets/fonts/icomoon/icomoon.svg) format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -1084,13 +1084,13 @@ select {
   display: block;
   width: 32px;
   height: 26px;
-  background: url(./assets/images/common/icon-withdrawal.png) no-repeat center center;
+  background: url(//178.128.100.88/assets/images/common/icon-withdrawal.png) no-repeat center center;
   background-size: 81%; }
 
 /********** Icon for Game Menu at sidebar **********/
 .menu-body img{position:relative;top:6px;margin-right:12px}
 .menu-body .tangkas1, .menu-body .tk1 {
-	background: url(./assets/images/common/icon-menu.png) no-repeat;
+	background: url(//178.128.100.88/assets/images/common/icon-menu.png) no-repeat;
 	background-position: -5px 5px;
     background-size: 280%;
 }
@@ -1115,7 +1115,7 @@ select {
 }
 .game-front-menu .label-new{margin-top:6px;margin-left:6px}
 /* .menu-body [class*="icon_"] {
-	background: url(./assets/images/common/sub-menu-sprite.svg) no-repeat;
+	background: url(//178.128.100.88/assets/images/common/sub-menu-sprite.svg) no-repeat;
 	background-size: 100%;
 }
 .menu-body .icon_slot {background-position: 10px -69px;}
@@ -1248,7 +1248,7 @@ select {
     display: block;
     width: 110px;
     height: 110px;
-    background: url(./assets/images/common/registering-icon.png) no-repeat;
+    background: url(//178.128.100.88/assets/images/common/registering-icon.png) no-repeat;
     background-size: 100%;
     opacity: 0.85;
     -webkit-transition: all 0.3s ease-out;
@@ -1422,7 +1422,7 @@ header {
       width: 24px;
       height: 18px;
       display: block;
-      background: url(./assets/images/common/icon-menu.svg) no-repeat center center;
+      background: url(//178.128.100.88/assets/images/common/icon-menu.svg) no-repeat center center;
       background-size: 100%; }
 
 .side-nav {
@@ -1629,7 +1629,7 @@ header {
   position: relative;
   padding: 56px 0 48px 0;
   background-color: #343434;
-  background:url(./assets/images/common/background.jpg) no-repeat fixed;
+  background:url(//178.128.100.88/assets/images/common/background.jpg) no-repeat fixed;
   background-size:100% 100%;
   min-width: 320px; }
 
@@ -2024,7 +2024,7 @@ main {
   .wallet_type_wrap .loading {
     width: 29px;
     height: 14px;
-    background: url(./assets/images/common/loading.svg) no-repeat left center; }
+    background: url(//178.128.100.88/assets/images/common/loading.svg) no-repeat left center; }
 
 .list-bulleted {
   margin: 30px 0 26px 0;
@@ -2071,7 +2071,7 @@ main {
     .navigation-ribbon .navigation-ribbon-item .icon-egame,
     .navigation-ribbon .navigation-ribbon-item .icon-sports,
     .navigation-ribbon .navigation-ribbon-item .icon-games {
-      background: url(./assets/images/common/sub-menu-sprite.svg) no-repeat;
+      background: url(//178.128.100.88/assets/images/common/sub-menu-sprite.svg) no-repeat;
       background-size: 60px 430px;
       background-position: center -383px; 
     }
@@ -2215,13 +2215,13 @@ footer {
 .footer-logos .sprite-logos-license {
   width: 126px;
   height: 47px;
-  background: url(./assets/images/common/license-logo.png) no-repeat center center;
+  background: url(//178.128.100.88/assets/images/common/license-logo.png) no-repeat center center;
   background-size: 100%; }
 
 .footer-logos .sprite-logos-18 {
   width: 42px;
   height: 42px;
-  background: url(./assets/images/common/Responsible-Gaming.svg) no-repeat center center;
+  background: url(//178.128.100.88/assets/images/common/Responsible-Gaming.svg) no-repeat center center;
   background-size: 100%; }
 
 .footer-copyright {
@@ -2820,7 +2820,7 @@ html:lang(ko-KR) .user-view .member-btn .btn {
 .icon-allwithdraw {
   width: 28px;
   height: 28px;
-  background: url(./assets/images/common/icon-output.svg) no-repeat center center;
+  background: url(//178.128.100.88/assets/images/common/icon-output.svg) no-repeat center center;
   background-size: 100%; }
 
 .account-menu {
@@ -2890,7 +2890,7 @@ html:lang(ko-KR) .user-view .member-btn .btn {
   display: block;
   width: 20px;
   height: 28px;
-  background: url(./assets/images/common/loading.svg) no-repeat center center; }
+  background: url(//178.128.100.88/assets/images/common/loading.svg) no-repeat center center; }
 
 .content-list .btn {
   padding: 0 0.5rem;
@@ -2948,7 +2948,7 @@ html:lang(ko-KR) .user-view .member-btn .btn {
   width: 28px;
   height: 28px;
   border: none;
-  background: transparent url(./assets/images/common/transfer-arrow.png) no-repeat center center;
+  background: transparent url(//178.128.100.88/assets/images/common/transfer-arrow.png) no-repeat center center;
   background-size: 100%; }
 
 .step-indicator {
@@ -3024,12 +3024,12 @@ html:lang(ko-KR) .user-view .member-btn .btn {
   width: 42px;
   height: 38px;
   line-height: 38px;
-  /* background: url(./assets/images/common/sub-menu-sprite.svg) no-repeat; */
+  /* background: url(//178.128.100.88/assets/images/common/sub-menu-sprite.svg) no-repeat; */
   /* background: url(//3.bp.blogspot.com/-xNJIkaUv6x0/YL3il6PW8cI/AAAAAAAABZ8/5NH5VDk9cpkyd3C8Z3DOdTCtlKDDhgUYwCNcBGAsYHQ/s0-rw/icon_nav.png) no-repeat; */
   background-size: 100%;
   opacity: 0.74; }
 .icon_games, .icon_sports, .icon_wallet {
-    background: url(./assets/images/common/sub-menu-sprite.svg) no-repeat;
+    background: url(//178.128.100.88/assets/images/common/sub-menu-sprite.svg) no-repeat;
 }
 .icon_casino, .icon_slot, .icon_tembak_ikan, .icon_lottery, .icon_poker {
     background: url(//3.bp.blogspot.com/-xNJIkaUv6x0/YL3il6PW8cI/AAAAAAAABZ8/5NH5VDk9cpkyd3C8Z3DOdTCtlKDDhgUYwCNcBGAsYHQ/s0-rw/icon_nav.png) no-repeat;
@@ -3050,17 +3050,17 @@ html:lang(ko-KR) .user-view .member-btn .btn {
 .providerGroup .icon_racing {
   background-position: center -177px; }
 .providerGroup .icon_wallet {
-	/* background: url(./assets/images/common/sub-menu-sprite.svg) no-repeat;
+	/* background: url(//178.128.100.88/assets/images/common/sub-menu-sprite.svg) no-repeat;
 	background-size: 100%; */
 	background-position: center -258px;
 }
 .providerGroup .icon_games {
-	/* background: url(./assets/images/common/sub-menu-sprite.svg) no-repeat;
+	/* background: url(//178.128.100.88/assets/images/common/sub-menu-sprite.svg) no-repeat;
 	background-size: 100%; */
 	background-position: center -298px;
 }
 /* .providerGroup .icon_sports {
-	background: url(./assets/images/common/sub-menu-sprite.svg) no-repeat;
+	background: url(//178.128.100.88/assets/images/common/sub-menu-sprite.svg) no-repeat;
 	background-size: 100%;
 	background-position: center -71px;
 } */
@@ -3080,7 +3080,7 @@ html:lang(ko-KR) .user-view .member-btn .btn {
   display: inline-block;
   width: 70px;
   height: 50px;
-  background: url(./assets/images/common/provider-sprite.png) no-repeat;
+  background: url(//178.128.100.88/assets/images/common/provider-sprite.png) no-repeat;
   background-size: 445px 370px; }
   .provider-logo-type.sg-logo {
     background-position: -3px -1px; }
@@ -3469,15 +3469,15 @@ html:lang(ko-KR) .user-view .member-btn .btn {
   min-height: calc(100vh - 56px); }
 
 .retrict_bg {
-  background: url(./assets/images/common/bg1.png) no-repeat top center;
+  background: url(//178.128.100.88/assets/images/common/bg1.png) no-repeat top center;
   background-size: 100%; }
 
 .maintenance_bg {
-  background: url(./assets/images/common/bg2.jpg) no-repeat top center;
+  background: url(//178.128.100.88/assets/images/common/bg2.jpg) no-repeat top center;
   background-size: cover; }
 
 .pvd_maintenance_bg {
-  background: #242424 url(./assets/images/common/bg3.jpg) no-repeat top center;
+  background: #242424 url(//178.128.100.88/assets/images/common/bg3.jpg) no-repeat top center;
   background-size: 100%; }
 
 .layout-container {
@@ -3841,19 +3841,19 @@ html:lang(ko-KR) .user-view .member-btn .btn {
         width: 30px;
         height: 30px; } }
   .flag-nav ul .en {
-    background-image: url(./assets/images/common/flag/en.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/en.png); }
   .flag-nav ul .cn {
-    background-image: url(./assets/images/common/flag/cn.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/cn.png); }
   .flag-nav ul .th {
-    background-image: url(./assets/images/common/flag/th.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/th.png); }
   .flag-nav ul .vi {
-    background-image: url(./assets/images/common/flag/vi.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/vi.png); }
   .flag-nav ul .ph {
-    background-image: url(./assets/images/common/flag/ph.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/ph.png); }
   .flag-nav ul .in {
-    background-image: url(./assets/images/common/flag/in.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/in.png); }
   .flag-nav ul .ko {
-    background-image: url(./assets/images/common/flag/ko.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/ko.png); }
 
 .box-item {
   padding: 1rem;
@@ -3980,19 +3980,19 @@ html:lang(ko-KR) .user-view .member-btn .btn {
       .dark_bg .box-item p {
         font-size: 0.9375rem; } }
   .dark_bg .en {
-    background-image: url(./assets/images/common/flag/en.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/en.png); }
   .dark_bg .cn {
-    background-image: url(./assets/images/common/flag/cn.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/cn.png); }
   .dark_bg .th {
-    background-image: url(./assets/images/common/flag/th.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/th.png); }
   .dark_bg .vi {
-    background-image: url(./assets/images/common/flag/vi.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/vi.png); }
   .dark_bg .ph {
-    background-image: url(./assets/images/common/flag/ph.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/ph.png); }
   .dark_bg .in {
-    background-image: url(./assets/images/common/flag/in.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/in.png); }
   .dark_bg .ko {
-    background-image: url(./assets/images/common/flag/ko.png); }
+    background-image: url(//178.128.100.88/assets/images/common/flag/ko.png); }
 
 @-webkit-keyframes bounce {
   0% {
@@ -4917,7 +4917,7 @@ footer{background-color:#313131;color:#757575}
 /* custom icon */
 .game-list ul > li > a {
     padding:84px 0 0 0;
-    background:url(./assets/images/common/icon-menu.png) no-repeat;
+    background:url(//178.128.100.88/assets/images/common/icon-menu.png) no-repeat;
 	background-position: -110px 0px;
 }
 .game-list ul .pgr{background-position:-110px -114px}
@@ -5402,7 +5402,7 @@ button.close {
 .game-front-menu .provider-item-list li>.icon-new{right:-5px;top:-6px;font-size:1.3rem}
 .game-front-menu .game-front-type{
 	/* padding-top:52px; */
-	background:url(./assets/images/common/icon_game-front_type.png?d=2) no-repeat;
+	background:url(//178.128.100.88/assets/images/common/icon_game-front_type.png?d=2) no-repeat;
 	background-position:-11px 0;
 	border-radius:10px;
 }
@@ -5441,7 +5441,7 @@ button.close {
 
 .game-front-menu .game-front-icon{
 	height:39px;width:100%;display:block;
-	background:url(./assets/images/common/icon_game-front_provider.png?d=2) #1d1b1b no-repeat;
+	background:url(//178.128.100.88/assets/images/common/icon_game-front_provider.png?d=2) #1d1b1b no-repeat;
 	background-position:center -3px;
 	background-size:80%;
 	border-bottom-right-radius:8px;
@@ -5540,7 +5540,7 @@ button.close {
 #ContactUs div {
 	width: 50px;
 	height: 50px;
-    background: url(./assets/images/common/contact-us.png) no-repeat;
+    background: url(//178.128.100.88/assets/images/common/contact-us.png) no-repeat;
     background-size: 95%;
     margin-bottom: 10px;
 }
@@ -5585,7 +5585,7 @@ button.close {
 #ProviderList a {
 	display: block;
 	padding: 84px 0 0 0;
-	background: url(./assets/images/common/icon-menu.png) no-repeat;
+	background: url(//178.128.100.88/assets/images/common/icon-menu.png) no-repeat;
 	background-size: 200%;
 	background-position: -101px 4px;
 }
@@ -5623,7 +5623,7 @@ button.close {
 .provider-item-list a, .provider-item-list span {
 	display: block;
 	padding: 91px 0 0 0;
-	background: url(./assets/images/common/icon-menu.png) no-repeat;
+	background: url(//178.128.100.88/assets/images/common/icon-menu.png) no-repeat;
 	background-size: 200%;
 	background-position: -101px 4px;
 }
@@ -5715,7 +5715,7 @@ button.close {
 .item-provider a{
 	display: block;
 	padding: 60px 0 0 0;
-	background: url(./assets/images/common/icon-menu.png) no-repeat;
+	background: url(//178.128.100.88/assets/images/common/icon-menu.png) no-repeat;
 	background-size: 165%;
 	background-position: -76px 2px;
 }
@@ -5898,7 +5898,7 @@ button.close {
 .bonus-pv-icon {
     width: 110px;
     padding: 84px 0 0 0;
-    background: url(./assets/images/common/icon-menu.png) no-repeat;
+    background: url(//178.128.100.88/assets/images/common/icon-menu.png) no-repeat;
     background-position: -110px 0px;
     position: absolute;
     top:0;right:10px;
@@ -5988,7 +5988,7 @@ button.close {
     height: 60px;
     float:left;
     filter:drop-shadow(0px 1px 1px black);
-	background: url(./assets/images/common/icon-menu.png) no-repeat;
+	background: url(//178.128.100.88/assets/images/common/icon-menu.png) no-repeat;
 	background-position: right 9px;
 	background-size:200%;
 }
@@ -6153,7 +6153,7 @@ button.close {
   height: 50px;
   border-bottom: none;
   margin-bottom: 0;
-  background: url(./assets/images/common/icon_game-front_provider.png?d=2) no-repeat;
+  background: url(//178.128.100.88/assets/images/common/icon_game-front_provider.png?d=2) no-repeat;
   background-position: center -3px;
   background-size: 100%;
 }
