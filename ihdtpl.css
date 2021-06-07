@@ -23,7 +23,7 @@
 /* Menu Game Front index page */
 .game-front-wrapper{background:linear-gradient(180deg, rgb(0 0 0 / 0.8) -20%, #00aeef 10%)}
 .game-group-front .nav-link,.game-group-front .owl-nav [class*='owl-']{color:#000 !important}
-.game-group-front .nav-link>i{background:url(//139.99.77.11/assets/images/icon-nav.png) no-repeat;background-size:60%;background-position:center -190px}
+.game-group-front .nav-link>i{background:url(//3.bp.blogspot.com/-xNJIkaUv6x0/YL3il6PW8cI/AAAAAAAABZ8/5NH5VDk9cpkyd3C8Z3DOdTCtlKDDhgUYwCNcBGAsYHQ/s0-rw/icon_nav.png) no-repeat;background-size:60%;background-position:center -190px}
 .game-menu li a.active{background:linear-gradient(to bottom,#f00018 1%,#b20000 100%);filter:drop-shadow(0 0 6px #ffc93f);color:#ffc93f}
 
 /* Filter tools [favorites] */
